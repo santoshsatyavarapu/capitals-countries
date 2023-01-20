@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.small-container {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  width: 60vw;
+}
+select {
+  padding: 10px;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #cbd2d9;
+}
